@@ -37,7 +37,7 @@ class Solution:
                     
                     answer = False
 
-            # Return the        
+            # Return the answer.        
             return answer
 
         # If len(coordinates) <= 2 then return True answer by default.         
